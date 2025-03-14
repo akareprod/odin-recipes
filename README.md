@@ -1,1 +1,2 @@
 # odin-recipes
+En este proyecto, he creado un nuevo repositorio en GitHub con el nombre de "odin-recipes", y lo he clonado a la carpeta de "repos" en mi carpeta de workspace en mi MacBook. A partir de ahora voy a aplicar lo aprendido en el curso para subir el contenido a GitHub (con sus comandos correspondientes) y además voy a crear una web con HTML.
