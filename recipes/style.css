@@ -32,17 +32,12 @@ h2 {
 h3 {
     font-size: 15px;
     text-shadow: 2px 5px 15px;
-
-}
-
-p {
-
 }
 
 ul {
-
+    list-style-type: none;
 }
 
 ol {
-
+    list-style-position: inside;
 }
