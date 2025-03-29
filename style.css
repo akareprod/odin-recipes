@@ -1,0 +1,56 @@
+html {
+    box-sizing: border-box;
+}
+
+body {}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    margin-top: auto;
+    font-weight: lighter;
+    text-shadow: 2px 5px 10px;
+    padding: 10px;
+    background-image: url(images/italia.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+}
+
+ul {
+    list-style-type:  square;
+    padding-left: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px auto;
+}
+
+li {
+    font-size: 20px;
+    padding: 25px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+.la {
+    background-image: url(images/Lasaña.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.pi {
+    background-image: url(images/margarita.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.ri {
+    background-image: url(images/risotto.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

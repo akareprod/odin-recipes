@@ -1,0 +1,48 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: auto;
+    font-weight: lighter;
+    padding: 10px;
+    background-color: red;
+    background: linear-gradient(to right, red, white, green);
+
+    border-radius: 20px;
+}
+
+img {
+    border-radius: 20px;
+}
+h1 {
+    font-size: 50px;
+    text-shadow: 2px 5px 15px;
+
+}
+
+h2 {
+    font-size: 20px;
+    text-shadow: 2px 5px 15px;
+
+}
+
+h3 {
+    font-size: 15px;
+    text-shadow: 2px 5px 15px;
+
+}
+
+p {
+
+}
+
+ul {
+
+}
+
+ol {
+
+}
